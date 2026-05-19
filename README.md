@@ -2,6 +2,15 @@
 
 This repository contains a Claude Code skills framework that extends Claude's capabilities through custom functionality modules called "skills". These skills can be invoked automatically by Claude when relevant or directly using slash commands.
 
+## Project Demo
+      
+Watch a short walkthrough of the Claude Agent 5 Skills project in action. The video showcases the main features, the user interface, and a quick demo of the
+agent’s capabilities.
+      
+[![Demo video]]([https://github.com/muhammadshafay-ui/Claude-Agent-5-Skills/raw/main/assets/project-demo.mp4](https://github.com/muhammadshafay-ui/Claude-Agent-5-Skills/blob/master/assets/Portfolio%20Assignment.mp4))
+      
+*Click the thumbnail above to play the video directly from the repository.*
+
 ## What This Project Does
 
 This project implements a skill-based extension system for Claude Code that provides specialized functionality in several areas:
