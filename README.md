@@ -7,9 +7,7 @@ This repository contains a Claude Code skills framework that extends Claude's ca
 Watch a short walkthrough of the Claude Agent 5 Skills project in action. The video showcases the main features, the user interface, and a quick demo of the
 agent’s capabilities.
       
-[![Demo video]](https://github.com/muhammadshafay-ui/Claude-Agent-5-Skills/blob/master/assets/Portfolio%20Assignment.mp4)
-      
-*Click the thumbnail above to play the video directly from the repository.*
+[Demo video](https://github.com/muhammadshafay-ui/Claude-Agent-5-Skills/blob/master/assets/Portfolio%20Assignment.mp4)
 
 ## What This Project Does
 
